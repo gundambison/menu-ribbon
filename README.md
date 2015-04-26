@@ -16,8 +16,11 @@ the original template use in Joomla 1.5 for clinic Project. As you see the menu 
 related to hospital.
 
 =============PROBLEM===
+
 1. click the my Clinic and then see the scroollbar show and make the content move a little to bottom. 
 I need to fix this.
+
 2. Theme color. I'm not good at choosing good color. My client said is fine.. He like it.. But I open 
 with suggestion
+
 3. The icon title problem if you type long sentences
